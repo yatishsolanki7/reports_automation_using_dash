@@ -21,6 +21,5 @@ tenacity
 typing-extensions
 Werkzeug
 zipp
-io
 base64
 gunicorn
