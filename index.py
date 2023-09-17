@@ -6,6 +6,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 from app import app
+from app import server
 from apps import page1, page2
 
 app.layout = html.Div([
